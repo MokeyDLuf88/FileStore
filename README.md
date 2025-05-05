@@ -36,8 +36,8 @@
 <details><summary><b> ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
   
 ## ᴠᴀʀɪᴀʙʟᴇs
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
+* `API_HASH` 13bafe35ff8a6c3e74712c1a12e47250
+* `APP_ID` 21173380
 * `TG_BOT_TOKEN`7585694777:AAF43oE8xzkzWPv5qyw4c6UW24Tye81C9Jg
 * `OWNER_ID` @ABxLegends
 * `CHANNEL_ID` Your Channel ID eg:- 1002638014316
