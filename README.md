@@ -9,7 +9,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+Anime+Zou!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+Anime+Zou!;A+ADVANCE+BOT)
 </p>
 
  ━━━━━━━━━━━━━━━━━
