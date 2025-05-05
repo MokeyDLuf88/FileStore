@@ -9,7 +9,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+CODEFLIX+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+Anime+Zou!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
 </p>
 
  ━━━━━━━━━━━━━━━━━
@@ -38,9 +38,9 @@
 ## ᴠᴀʀɪᴀʙʟᴇs
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
+* `TG_BOT_TOKEN`7585694777:AAF43oE8xzkzWPv5qyw4c6UW24Tye81C9Jg
+* `OWNER_ID` @ABxLegends
+* `CHANNEL_ID` Your Channel ID eg:- 1002638014316
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
@@ -137,11 +137,11 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/codeflix_bots) </b>
+- <b>[Anime Zou](https://t.me/Anime_Zou)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/Anime_Zou) </b>
 - <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
 - <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/Anime_Zou) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 ## 📌  𝑵𝒐𝒕𝒆
 
