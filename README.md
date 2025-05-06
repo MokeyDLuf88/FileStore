@@ -41,7 +41,7 @@
 * `TG_BOT_TOKEN`7585694777:AAF43oE8xzkzWPv5qyw4c6UW24Tye81C9Jg
 * `OWNER_ID` @ABxLegends
 * `CHANNEL_ID` Your Channel ID eg:- 1002638014316
-* `DATABASE_URL` config.py
+* `DATABASE_URL` idk
 * `DATABASE_NAME` dark
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codeflix-bots/filestore/blob/master/README.md#start_message'>fillings</a>
