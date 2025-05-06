@@ -52,33 +52,33 @@
 
 ```
 /start - start the bot or get posts
-/batch - create link for more than one posts
-/genlink - create link for one post
-/users - view bot statistics
-/broadcast - broadcast any messages to bot users
-/dbroadcast - broadcast any messages with auto delete.
-/stats - checking your bot uptime
+/batch - create link for more than one posts (Admin Only)
+/genlink - create link for one post (Admin Only)
+/users - view bot statistics (Admin Only)
+/broadcast - broadcast any messages to bot users (Admin Only)
+/dbroadcast - broadcast any messages with auto delete (Admin Only)
+/stats - checking your bot uptime (Admin Only)
 /start - start the bot or get posts  
-/batch - create link for more than one posts  
-/custom_batch - create custom batch from channel/group  
-/genlink - create link for one post  
-/users - view bot statistics  
-/broadcast - broadcast any messages to bot users  
-/dbroadcast - broadcast any messages with auto delete  
-/stats - check your bot uptime  
-/dlt_time - set auto delete time for files  
-/check_dlt_time - check current delete time setting  
-/ban - ban a user from using the bot  
-/unban - unban a previously banned user  
-/banlist - get list of banned users  
-/addchnl - add a channel for force subscription  
-/delchnl - remove a force subscribe channel  
-/listchnl - view all added force subscribe channels  
-/fsub_mode - toggle force subscribe on or off  
-/pbroadcast - pin a broadcast to all user's chat 
-/add_admin - add a new admin  
-/deladmin - remove an admin  
-/admins - list all current admins  
+/batch - create link for more than one posts (Admin Only)  
+/custom_batch - create custom batch from channel/group (Admin Only)  
+/genlink - create link for one post (Admin Only) 
+/users - view bot statistics (Admin Only) 
+/broadcast - broadcast any messages to bot users (Admin Only) 
+/dbroadcast - broadcast any messages with auto delete (Admin Only) 
+/stats - check your bot uptime (Admin Only) 
+/dlt_time - set auto delete time for files () 
+/check_dlt_time - check current delete time setting (Admin Only) 
+/ban - ban a user from using the bot (Admin Only) 
+/unban - unban a previously banned user (Admin Only) 
+/banlist - get list of banned users (Admin Only) 
+/addchnl - add a channel for force subscription  (Admin Only)  
+/delchnl - remove a force subscribe channel (Admin Only)  
+/listchnl - view all added force subscribe (Admin Only) channels  
+/fsub_mode - toggle force subscribe on or off (Admin Only) 
+/pbroadcast - pin a broadcast to all user's chat (Admin Only)
+/add_admin - add a new admin (Owner Only) 
+/deladmin - remove an admin (Owner Only) 
+/admins - list all current admins (Owner Only) 
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -138,13 +138,8 @@ python3 bot.py
 </h3>
 
 - <b>[Anime Zou](https://t.me/Anime_Zou)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/Anime_Zou) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
-- <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
+
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/Anime_Zou) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
-
-## 📌  𝑵𝒐𝒕𝒆
-
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
