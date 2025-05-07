@@ -43,7 +43,7 @@
 * `CHANNEL_ID` Your Channel ID eg:- 1002638014316
 * `DATABASE_URL` mongodb+srv://seishiroatanime:Y3FQIzJbCXMWQc9S@cluster0.ymttr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 * `DATABASE_NAME` AnimeZou_FileBot
-* `ADMINS` Optional: 7602934992 7912782586
+* `ADMINS` Optional: 7602934992
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codeflix-bots/filestore/blob/master/README.md#start_message'>fillings</a>
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 </details>
