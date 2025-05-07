@@ -38,7 +38,7 @@
 ## ᴠᴀʀɪᴀʙʟᴇs
 * `API_HASH` 13bafe35ff8a6c3e74712c1a12e47250
 * `APP_ID` 21173380
-* `TG_BOT_TOKEN`7585694777:AAF43oE8xzkzWPv5qyw4c6UW24Tye81C9Jg
+* `TG_BOT_TOKEN`7633589794:AAE3EmtIaiyqb-GzmJtJ8To7U07bs8uvMjA
 * `OWNER_ID` @ABxLegends
 * `CHANNEL_ID` Your Channel ID eg:- 1002638014316
 * `DATABASE_URL` mongodb+srv://seishiroatanime:Y3FQIzJbCXMWQc9S@cluster0.ymttr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
